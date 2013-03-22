@@ -1,0 +1,7 @@
+c:\katas\TDDAIYMI\TDDAIYMI\bin\Debug\TDDAIYMI.dll
+c:\katas\TDDAIYMI\TDDAIYMI\bin\Debug\TDDAIYMI.pdb
+c:\katas\TDDAIYMI\TDDAIYMI\bin\Debug\nunit.framework.dll
+c:\katas\TDDAIYMI\TDDAIYMI\bin\Debug\nunit.framework.xml
+c:\katas\TDDAIYMI\TDDAIYMI\obj\Debug\ResolveAssemblyReference.cache
+c:\katas\TDDAIYMI\TDDAIYMI\obj\Debug\TDDAIYMI.dll
+c:\katas\TDDAIYMI\TDDAIYMI\obj\Debug\TDDAIYMI.pdb
